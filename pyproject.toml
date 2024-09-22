@@ -32,11 +32,8 @@ dependencies = ["Django>=4.2"]
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/carltongibson/django-filter/tree/main"
-Documentation = "https://django-filter.readthedocs.io/en/main/"
-Changelog = "https://github.com/carltongibson/django-filter/blob/main/CHANGES.rst"
-"Bug Tracker" = "https://github.com/carltongibson/django-filter/issues"
-"Source Code" = "https://github.com/carltongibson/django-filter"
+Homepage = "https://github.com/tscomp/form/tree/main"
+"Source Code" = "https://github.com/tscomp/form"
 
 [tool.setuptools]
 zip-safe = false
