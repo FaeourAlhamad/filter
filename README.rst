@@ -63,5 +63,3 @@ To use this adjust your import to use
             model = Product
             fields = ('category', 'in_stock')
 
-
-For more details see the `DRF integration docs`_.
